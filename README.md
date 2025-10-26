@@ -60,7 +60,7 @@ The project displays live dB readings, dynamic color bars, sound categories (*Qu
 
 ## Circuit Diagram
 
-| Circuit Diagram | Actual Circuit |
+| Circuit Diagram | Actual Build |
 |----------|---------------|
 | ![Circuit Diagram](Sound_Meter_Circuit_Diagram.png) | ![Actual Circuit](Sound_Meter_Actual_Circuit.jpg) |
 
