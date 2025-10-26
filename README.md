@@ -60,9 +60,10 @@ The project displays live dB readings, dynamic color bars, sound categories (*Qu
 
 ## 🖥️ UI Example
 
-| Diagram | Real Circuit |
+| System Diagram | Actual Circuit |
 |----------|---------------|
-| ![Circuit Diagram](Sound_Meter_Circuit_Diagram.png) | ![Actual Circuit](Sound_Meter_Actual_Circuit.jpg) |
+| ![Circuit Diagram](Sound_Meter_Circuit_Diagram.png) |
+| ![Actual Circuit](Sound_Meter_Actual_Circuit.jpg) |
 
 ---
 
@@ -91,9 +92,3 @@ Install from the Arduino Library Manager:
 | 0–40 dB | Quiet | 🟢 Green |
 | 40–60 dB | Moderate | 🟡 Yellow |
 | 60–80 dB | Loud | 🔴 Red |
-## 📜 License
-
-This project is licensed under the **MIT License** — you can freely use, modify, and share it with credit.
-
----
-
